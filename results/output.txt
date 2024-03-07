@@ -1,0 +1,49 @@
+Benchmarking:
+
+Benchmark on number of elements/features, tree height capped at 4
+
+Test Dataset: Build Tree		Elements: 11		Features: 4
+Build time: 0.000697 seconds
+
+Test Dataset: Classify Samples		Elements: 11		Features: 4
+Classify time: 0.000288 seconds for 1100 samples, 2.61818e-07 seconds per sample
+Classify Accuracy: 1		Accuracy of Random Guessing: 0.636364
+
+-----------------------------------------------------------------------------------------------------
+
+Disease Symptom Dataset: Build Tree		Elements: 279		Features: 13
+Build time: 0.063058 seconds
+
+Disease Symptom Dataset: Classify Samples		Elements: 70		Features: 13
+Classify time: 0.001843 seconds for 7000 samples, 2.63286e-07 seconds per sample
+Classify Accuracy: 0.114286		Accuracy of Random Guessing: 0.0428571
+
+-----------------------------------------------------------------------------------------------------
+
+Symptom Checker Dataset: Build Tree		Elements: 3968		Features: 132
+Build time: 0.986558 seconds
+
+Symptom Checker Dataset: Classify Samples		Elements: 993		Features: 132
+Classify time: 0.025738 seconds for 99300 samples, 2.59194e-07 seconds per sample
+Classify Accuracy: 0.0976838		Accuracy of Random Guessing: 0.0292044
+
+-----------------------------------------------------------------------------------------------------
+
+Stroke Dataset: Build Tree		Elements: 33550		Features: 22
+Build time: 1.41106 seconds
+
+Stroke Dataset: Classify Samples		Elements: 8388		Features: 22
+Classify time: 0.216568 seconds for 838800 samples, 2.58188e-07 seconds per sample
+Classify Accuracy: 0.984979		Accuracy of Random Guessing: 0.970911
+
+-----------------------------------------------------------------------------------------------------
+
+CDC Diabetes Dataset: Build Tree		Elements: 202944		Features: 15
+Build time: 8.29176 seconds
+
+CDC Diabetes Dataset: Classify Samples		Elements: 50736		Features: 15
+Classify time: 1.46313 seconds for 5073600 samples, 2.8838e-07 seconds per sample
+Classify Accuracy: 0.86209		Accuracy of Random Guessing: 0.760308
+
+-----------------------------------------------------------------------------------------------------
+
