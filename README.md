@@ -1,6 +1,6 @@
 # CART Algorithm
 
-## Mark: The content in this repo is copied from CS225ECProject organization which is funded by Jacquelin Lai and Tyler Heaney, the content within the repo is also created by Jacquelin Lai and Tyler Heaney.
+### Mark: The content in this repo is copied from [CS225ECProject organization](https://github.com/CS225ECProject/shoppingCARTs.git) which is funded by Jacquelin Lai and Tyler Heaney, the content within the repo is also created by Jacquelin Lai and Tyler Heaney.
 
 ## Citation
 - Lewis, Roger. (2000). An Introduction to Classification and Regression Tree (CART) Analysis. 
